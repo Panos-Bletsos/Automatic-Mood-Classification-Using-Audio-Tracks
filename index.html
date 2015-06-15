@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Automatic Mood Classification</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+	<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link href='css/style.css' rel='stylesheet'/>
+</head>
+<body>
+	<div class="container">
+		<h1 class="title">Automatic Mood Classification</h1>
+		<div class="form col-md-12">
+			<p class="subtitle">Choose the track you want to classify.</p>
+			<div class="form col-md-12">
+    			<input type="text" class="input col-md-5" name="artist" id="artist" placeholder="Artist">
+    			<span class="col-md-2 hyphen"> — </span>
+    			<input type="text" class="input col-md-5" name="track" id="track" placeholder="Track">
+    		</div>
+    	</div>
+    	<div class="button col-md-2 col-md-offset-5">Classify!</div>
+
+    	<div id="loading" class="spinner">
+        	<div class="rect1"></div>
+  			<div class="rect2"></div>
+  			<div class="rect3"></div>
+  			<div class="rect4"></div>
+  			<div class="rect5"></div>
+    	</div>
+    	<div class="load col-md-12" id="loading-text">Loading...</div>
+    	<div id="results" class="col-md-12">
+    		<h3>Mood Cluster</h3>
+    		<h2 id="cluster"></h2>
+    	</div>
+	</div>
+	<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+{
+	"1": {
+		"genre":{
+			"Rock":{
+				"songs":[
+					{ "Artist": "Ramones", "Song": "Blitzkrieg Bop" },
+					{ "Artist": "David Bowie", "Song": "Suffragette City" },
+					{ "Artist": "Iggy Pop", "Song": "Lust For Life" },
+					{ "Artist": "Ramones", "Song": "Rockaway Beach" },
+					{ "Artist": "Ramones", "Song": "Cretin Hop" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Kid Cudi", "Song": "Cudi Zone" },
+					{ "Artist": "Jay z", "Song": "Heart of the City" },
+					{ "Artist": "Ne-Yo", "Song": "Coming with you" },
+					{ "Artist": "Marian Hill", "Song": "Got it" },
+					{ "Artist": "Dave Hollister", "Song": "Wish you well" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Jessie James", "Song": "blue jeans" },
+					{ "Artist": "christina aguilera", "Song": "glam" },
+					{ "Artist": "lady gaga", "Song": "monster" },
+					{ "Artist": "UB40", "Song": "Red red wine" },
+					{ "Artist": "Samantha Fox", "Song": "Naughty girls need love too" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Stevie Ray Vaughan & Double Trouble", "Song": "The House Is Rockin'" },
+					{ "Artist": "Stevie Ray Vaughan & Double Trouble", "Song": "Scuttle Buttin'" },
+					{ "Artist": "Elmore James", "Song": "Blues Before Sunrise" },
+					{ "Artist": "Muddy Waters", "Song": "Ramblin' Mind" },
+					{ "Artist": "Little Walter", "Song": "Up the Line" },
+					{ "Artist": "Muddy Waters", "Song": "Got My Mojo Workin'" }
+				]	
+			}
+		}
+	},
+	"2": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "The Cars", "Song": "Just what i needed" },
+					{ "Artist": "Buzzcocks", "Song": "This Love" },
+					{ "Artist": "Magazine", "Song": "sweet heart contact" },
+					{ "Artist": "The Damned", "Song": "dozen girls" },
+					{ "Artist": "Kaiser Chiefs ", "Song": "never miss a beat" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Black Eyed Peas", "Song": "Positivity" },
+					{ "Artist": "TWDY", "Song": "Players Holiday" },
+					{ "Artist": "Camp Lo", "Song": "Luchini" },
+					{ "Artist": "Jurassic 5 ", "Song": "What's Golden" },
+					{ "Artist": "Naughty By Nature", "Song": "Hip Hop Hooray" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Charles Mingus", "Song": "Better git hit in yo soul" },
+					{ "Artist": "Charlie Parker", "Song": "Now's the time and Koko" },
+					{ "Artist": "John Coltrane", "Song": "Giant steps" },
+					{ "Artist": "Mulatu Astatqe", "Song": "Sabye" },
+					{ "Artist": "Eva Cassidy", "Song": "Cheek to cheek" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "George Thorogood", "Song": "One Bourbon, One Scotch, One Beer" },
+					{ "Artist": "George Thorogood", "Song": "I drink alone" },
+					{ "Artist": "Screamin Jay Hawkins", "Song": "Constipation Blues" },
+					{ "Artist": "Lonnie Mack", "Song": "Oreo Cookie Blues" },
+					{ "Artist": "Joe Walsh", "Song": "All Night Laundry Mat Blues" }
+				]
+			}
+		}
+	},
+	"3": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Eagles", "Song": "Take it Easy" },
+					{ "Artist": "Beatles", "Song": "And Your Bird can Sing" },
+					{ "Artist": "Beatles", "Song": "Nowhere Man" },
+					{ "Artist": "Led Zeppelin", "Song": "Thank You" },
+					{ "Artist": "Queen", "Song": "Las Palabras de Amor" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "R2J2", "Song": "A beautiful mine" },
+					{ "Artist": "Ras G", "Song": "Juju" },
+					{ "Artist": "2Pac", "Song": "Holler If Ya Hear Me" },
+					{ "Artist": "DJ Premier", "Song": "Doomp Doomp Doomp" },
+					{ "Artist": "Wu-Tang Clan", "Song": "Think Differently" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Soul Jazz Collective", "Song": "Modal Soul" },
+					{ "Artist": "Jazz Liberatorz", "Song": "A Paris" },
+					{ "Artist": "Jazz Liberatorz", "Song": "Loop Prisoner" },
+					{ "Artist": "Jazz Liberatorz", "Song": "Capture your mind" },
+					{ "Artist": "Jazz Liberatorz", "Song": "That's reality" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Albert King", "Song": "I Almost lost my mind" },
+					{ "Artist": "Albert King", "Song": "As the years go passing by" },
+					{ "Artist": "Albert King", "Song": "The Very thought of you" }
+				]
+			}
+		}
+	},
+	"4": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Papercuts", "Song": "Future Primitive" },
+					{ "Artist": "Grizzly Bear", "Song": "Lullabye" },
+					{ "Artist": "The Black Keys", "Song": "The Lengths" },
+					{ "Artist": "Bloc Party", "Song": "So Here We Are" },
+					{ "Artist": "Incubus", "Song": "Aqueous Transmission" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Martin O'Donnell", "Song": "Unforgotten" },
+					{ "Artist": "E. S. Posthumus", "Song": "Nara" },
+					{ "Artist": "José González", "Song": "Stay Alive" },
+					{ "Artist": "Steve Jablonsky", "Song": "Infinite White" },
+					{ "Artist": "Stephen Rhodes", "Song": "Mood Shadows" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Jason Mraz", "Song": "I'm yours" },
+					{ "Artist": "Sarah McLachlan", "Song": "Angel" },
+					{ "Artist": "Brian Eno", "Song": "An Ending" },
+					{ "Artist": "debussy", "Song": "claire de lune" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Lakme", "Song": "The flower duet" }
+				]
+			}
+		}
+	},
+	"5": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Bonnie Raitt", "Song": "I Can't Make You Love Me" },
+					{ "Artist": "Jimi Hendrix Experience", "Song": "The Wind Cries Mary" },
+					{ "Artist": "ZZ Top", "Song": "Sure Got Cold After the Rain Fell'" },
+					{ "Artist": "Led Zeppelin", "Song": "All My Love" },
+					{ "Artist": "Eric Clapton", "Song": "Tears in Heaven" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "The Notorious B.I.G.", "Song": "Suicidal Thoughts" },
+					{ "Artist": "2Pac", "Song": "Brenda's Got A Baby" },
+					{ "Artist": "Eminem", "Song": "Kim" },
+					{ "Artist": "Wu-Tang Clan", "Song": "Tearz" },
+					{ "Artist": "Lost Boyz", "Song": "Renee" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Carmen McRae", "Song": "Inside A Silent Tear" },
+					{ "Artist": "Nina Simone", "Song": "You Don't Know What Love Is" },
+					{ "Artist": "Chet Baker", "Song": "Little Girl Blue" },
+					{ "Artist": "Anita O'Day", "Song": "Can't Get Started With You" },
+					{ "Artist": "Parov Stelar", "Song": "L étoile (feat. Max the Sax)" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Eric Clapton", "Song": "Blues leave me alone" },
+					{ "Artist": "John Hammond", "Song": "The Sky Is Crying" },
+					{ "Artist": "Crying Time Again", "Song": "Son Seals" },
+					{ "Artist": "Goodnight Irene", "Song": "Mississippi John Hurt" },
+					{ "Artist": "Life Is Hard", "Song": "Son Seals" }
+				]
+			}
+		}
+	},
+	"6": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Slayer", "Song": "Flesh Storm" },
+					{ "Artist": "Sodom", "Song": "City of god" },
+					{ "Artist": "Cannibal Corpse", "Song": "Death Walking Terror" },
+					{ "Artist": "Chimaira", "Song": "Power Trip" },
+					{ "Artist": "Hatebreed", "Song": "Put it to the torch" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Eminem", "Song": "The way i am" },
+					{ "Artist": "Meek Mill", "Song": "Dreams & Nightmares" },
+					{ "Artist": "Public Enemy", "Song": "Fight The Power" },
+					{ "Artist": "F**k Ya’ll", "Song": "Mama Said Knock You Out" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "System Of A Down", "Song": "Prison Song" },
+					{ "Artist": "Korn", "Song": "Dead Bodies Everywhere" },
+					{ "Artist": "Drowning Pool", "Song": "Bodies" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Limp Bizkit", "Song": "Break Stuff" }
+				]
+			}
+		}
+	}
+}

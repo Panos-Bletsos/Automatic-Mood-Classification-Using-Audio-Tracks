@@ -1,0 +1,13 @@
+@include Please_Please_Me.txt
+@include With_The_Beatles.txt
+@include A_Hard_Day_s_Night.txt
+@include Beatles_For_Sale.txt
+@include Help_.txt
+@include Rubber_Soul.txt
+@include Revolver.txt
+@include Sgt_Pepper_s_Lonely_Hearts_Club_Band.txt
+@include Magical_Mystery_Tour.txt
+@include The_White_Album_Disc_1.txt
+@include The_White_Album_Disc_2.txt
+@include Abbey_Road.txt
+@include Let_It_Be.txt

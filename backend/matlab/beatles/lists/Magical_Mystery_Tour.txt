@@ -1,0 +1,11 @@
+Magical_Mystery_Tour/01-Magical_Mystery_Tour
+Magical_Mystery_Tour/02-The_Fool_On_The_Hill
+Magical_Mystery_Tour/03-Flying
+Magical_Mystery_Tour/04-Blue_Jay_Way
+Magical_Mystery_Tour/05-Your_Mother_Should_Know
+Magical_Mystery_Tour/06-I_Am_The_Walrus
+Magical_Mystery_Tour/07-Hello_Goodbye
+Magical_Mystery_Tour/08-Strawberry_Fields_Forever
+Magical_Mystery_Tour/09-Penny_Lane
+Magical_Mystery_Tour/10-Baby_You_re_A_Rich_Man
+Magical_Mystery_Tour/11-All_You_Need_Is_Love

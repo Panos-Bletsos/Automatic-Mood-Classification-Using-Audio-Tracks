@@ -1,0 +1,13 @@
+1963-1 Please_Please_Me
+1963-2 With_The_Beatles
+1964-1 A_Hard_Day_s_Night
+1964-2 Beatles_For_Sale
+1965-1 Help_
+1965-2 Rubber_Soul
+1966-1 Revolver
+1967-1 Sgt_Pepper_s_Lonely_Hearts_Club_Band
+1967-2 Magical_Mystery_Tour
+1968-1 The_White_Album_Disc_1
+1968-1 The_White_Album_Disc_2
+1969-1 Abbey_Road
+1970-1 Let_It_Be

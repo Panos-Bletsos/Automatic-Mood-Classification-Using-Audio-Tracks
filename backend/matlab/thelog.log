@@ -1,0 +1,32 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (maci64)
+                             September 15, 2014
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+***CONFIG: model=25 pretrained=1
+[Warning: Name is nonexistent or not a directory: mp3readwrite] 
+[> In path at 109
+  In addpath at 86
+  In calcbeatchroma at 53
+  In doChordID_svm at 56] 
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In wavread at 62
+  In calcbeatchroma at 150
+  In doChordID_svm at 56] 
+22:17:53 song 1 ../audio/audio semisoff=0.04 bpm=221  fctr=400
+22:17:54 song 1 ../audio/audio semisoff=0.04 bpm=221  fctr=100
+Writing  100 done.
+Reading model...done.
+Reading test examples... 1 examples, 107 tokens, 114 features, 0 classes... done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 107.0000
+Zero/one-error on test set: 100.00% (0 correct, 1 incorrect, 1 total)
+Average loss per token: 1.0000
+about to save to /Applications/MAMP/htdocs/mood/backend/matlab/results/audio.wav.txt
+22:17:54 song 1 wrote /Applications/MAMP/htdocs/mood/backend/matlab/results/audio.wav.txt

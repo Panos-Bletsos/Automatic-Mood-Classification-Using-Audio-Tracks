@@ -1,0 +1,225 @@
+{
+	"1": {
+		"genre":{
+			"Rock":{
+				"songs":[
+					{ "Artist": "Maroon 5", "Song": "One More Night" },
+					{ "Artist": "Maroon 5", "Song": "This Love" },
+					{ "Artist": "Maroon 5", "Song": "She Will Be Loved" },
+					{ "Artist": "Maroon 5", "Song": "Sunday Morning" },
+					{ "Artist": "Maroon 5", "Song": "Maps" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Pitbull", "Song": "Timber" },
+					{ "Artist": "Pitbull", "Song": "Time Of Our Lives" },
+					{ "Artist": "Pitbull", "Song": "Fireball" },
+					{ "Artist": "Snoop Dogg", "Song": "Peaches N Cream" },
+					{ "Artist": "Pharrell Wiliams", "Song": "Come Get It Bae" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Dave Brubeck", "Song": "Take Five" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "The Black Keys", "Song": "Lonely Boy" },
+					{ "Artist": "The Black Keys", "Song": "Tighten Up" },
+					{ "Artist": "B.B. King", "Song": "The Thrill Is Gone" }
+				]	
+			}
+		}
+	},
+	"2": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Mungo Jerry", "Song": "In The Summertime" },
+					{ "Artist": "Simo & Garfunkel", "Song": "The Sound Of Silence" },
+					{ "Artist": "Stealer Wheel", "Song": "Stuck In The Middle With You" },
+					{ "Artist": "Sublime", "Song": "What I Got" },
+					{ "Artist": "Sublime", "Song": "Santeria" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Mark Ronson", "Song": "Uptown Funk" },
+					{ "Artist": "Sean Kingston", "Song": "Beatiful Girls" },
+					{ "Artist": "Mark Ronson", "Song": "Feel Right" },
+					{ "Artist": "Sean Kingston", "Song": "Fire Burning" },
+					{ "Artist": "Panjabu MC", "Song": "Mundian To Bach Ke" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Glenn Miller", "Song": "In The Mood" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Rusted Root", "Song": "Send Me On My Way" },
+					{ "Artist": "Fats Domino", "Song": "Blueberry Hill" }
+				]
+			}
+		}
+	},
+	"3": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "City and Colour", "Song": "The Girl" },
+					{ "Artist": "Expliosions in the sky", "Song": "Your Hand In mine" },
+					{ "Artist": "Expliosions in the sky", "Song": "First Breath After Coma" },
+					{ "Artist": "Rainbow", "Song": "Stargazer" },
+					{ "Artist": "Alter Bridge", "Song": "Addicted to Pain" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "Drake", "Song": "Energy" },
+					{ "Artist": "Drake", "Song": "Started from the bottom" },
+					{ "Artist": "Shaggy", "Song": "It wasn't me" },
+					{ "Artist": "Drake", "Song": "Legend" },
+					{ "Artist": "Drake", "Song": "Know yourself" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Eldar Djangirov", "Song": "Nature Boy" },
+					{ "Artist": "Bill Charlap", "Song": "The Nearness Of You" },
+					{ "Artist": "Eldar Djangirov", "Song": "Nature Boy" },
+					{ "Artist": "Bill Evans", "Song": "Blue in Green" },
+					{ "Artist": "Lee Morgan", "Song": "Since I Fell For You" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Norah Jones", "Song": "Come Away with me" },
+					{ "Artist": "Norah Jones", "Song": "Sunrise" },
+					{ "Artist": "Nat King Cole", "Song": "Unforgettable" },
+					{ "Artist": "John Mayer", "Song": "Gravity" },
+					{ "Artist": "John Mayer", "Song": "Gravity" }
+				]
+			}
+		}
+	},
+	"4": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Pinback", "Song": "Loro" },
+					{ "Artist": "Ron Sexsmith", "Song": "Gold In Them Hills" },
+					{ "Artist": "Pinback", "Song": "Good To Sea" },
+					{ "Artist": "Sparta", "Song": "Cut your ribbon" },
+					{ "Artist": "Gary Jules", "Song": "I want you to want me" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "José González", "Song": "Heartbeats" },
+					{ "Artist": "Bibio", "Song": "Lovers' Carvings" },
+					{ "Artist": "José González", "Song": "Stay Alive" },
+					{ "Artist": "José Gonzáleze", "Song": "Crosses" },
+					{ "Artist": "José González", "Song": "Every Age" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Kenny Garrett", "Song": "Before it's time to say goodbye" },
+					{ "Artist": "Wynton Marsalis", "Song": "When It's sleepytime Down South" },
+					{ "Artist": "Stanley Turrentine", "Song": "Journey into Melody" },
+					{ "Artist": "Branford Marsalis", "Song": "Gloomy Sunday" },
+					{ "Artist": "Ibrahim Maalouf", "Song": "Suprises" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Angus & Julia Stone", "Song": "Paper Aeroplane" },
+					{ "Artist": "Angus & Julia Stone", "Song": "A Heartbreak" },
+					{ "Artist": "Cat Power", "Song": "Sea Of Love" },
+					{ "Artist": "Angus & Julia Stone", "Song": "Just A boy" },
+					{ "Artist": "Angus & Julia Stone", "Song": "Wherever You Are" }
+				]
+			}
+		}
+	},
+	"5": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Chris Isaak", "Song": "Wicked Game" },
+					{ "Artist": "Nazareth", "Song": "Love Hurts" },
+					{ "Artist": "Roy Orbison", "Song": "Only the Lonely" },
+					{ "Artist": "Roy Orbison", "Song": "You got it" },
+					{ "Artist": "Scorpions", "Song": "Wind Of Change" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "R. Kelly", "Song": "I believe i can fly" },
+					{ "Artist": "Ja Rule", "Song": "Always on time" },
+					{ "Artist": "Ja rule", "Song": "Mesmerize" },
+					{ "Artist": "Ja Rule", "Song": "Always on Time" },
+					{ "Artist": "Trey Songz", "Song": "Na na" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Dave Brubeck", "Song": "Blue Shadows In The Street" },
+					{ "Artist": "Mal Waldron", "Song": "Blues For Lady Day" },
+					{ "Artist": "Gil Evans", "Song": "Where FLamingos Fly" },
+					{ "Artist": "Billie Holiday", "Song": "Please Don't Talk About Me When I'm Gone" },
+					{ "Artist": "Johnny Hartman", "Song": "In The Wee Small Hours Of The Morning" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Elmore james", "Song": "The sky is Crying" },
+					{ "Artist": "John Lee Hooker", "Song": "Wednesday evening blues" },
+					{ "Artist": "B.B. King", "Song": "Lonely nights" },
+					{ "Artist": "Muddy Waters", "Song": "Long Distance Cal" },
+					{ "Artist": "Robert Cray", "Song": "Because of You" }
+				]
+			}
+		}
+	},
+	"6": {
+		"genre": {
+			"Rock":{
+				"songs":[
+					{ "Artist": "Jeff Buckley", "Song": "Hallelujah" },
+					{ "Artist": "Rage Against The Machine", "Song": "Killing In The Name" },
+					{ "Artist": "Disturbed", "Song": "Stricken" },
+					{ "Artist": "Rage Against The Machine", "Song": "Bulls On Parade" },
+					{ "Artist": "Metallica", "Song": "Master Of Puppets" }
+				]
+			},
+			"Hip-Hop":{
+				"songs":[
+					{ "Artist": "House Of Pain", "Song": "Jump Around" },
+					{ "Artist": "DMX", "Song": "X Gon' Give It To Ya" },
+					{ "Artist": "DMX", "Song": "Ruff Ryders' Anthem" },
+					{ "Artist": "LL Cool J", "Song": "Mama Said Knock You Out" },
+					{ "Artist": "Onyx", "Song": "Slam" }
+				]
+			},
+			"Jazz":{
+				"songs":[
+					{ "Artist": "Elvis Costello", "Song": "Alison" },
+					{ "Artist": "Elvis Costello", "Song": "Pump It Up" },
+					{ "Artist": "Fugazi", "Song": "Blueprint" },
+					{ "Artist": "Fugazi", "Song": "I'm so tired" },
+					{ "Artist": "Fugazi", "Song": "Sleve-Fisted Find" }
+				]
+			},
+			"Blues":{
+				"songs":[
+					{ "Artist": "Immortal Lee County Killers", "Song": "Let's Get Killed" }
+				]
+			}
+		}
+	}
+}

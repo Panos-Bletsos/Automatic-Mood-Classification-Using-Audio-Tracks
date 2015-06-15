@@ -1,0 +1,50 @@
+{
+	"1": {
+		"songs":[
+			{ "Artist": "Jackson 5", "Song": "I Want You Back" },
+			{ "Artist": "SAARA", "Song": "Ur Cool" },
+			{ "Artist": "Capital Cities", "Song": "Safe And Sound" },
+			{ "Artist": "Life Of Dillon", "Song": "Overload" }
+		]
+	},
+	"2": {
+		"songs":[
+			{ "Artist": "Bruno Mars", "Song": "The Lazy Song" },
+			{ "Artist": "The Turtles", "Song": "Happy Together" },
+			{ "Artist": "Barenaked Ladies", "Song": "One Week" },
+			{ "Artist": "U2", "Song": "Beautiful Day" }
+		]
+	},
+	"3": {
+		"songs":[
+			{ "Artist": "Lou Reed", "Song": "Perfect Day" },
+			{ "Artist": "Blue Moon", "Song": "Beck" },
+			{ "Artist": "Lucius", "Song": "Two of Us on the Run" },
+			{ "Artist": "Arctic Monkeys", "Song": "Baby I'm yours" }
+		]
+	},
+	"4": {
+		"songs":[
+			{ "Artist": "Uniq", "Song": "New Start" },
+			{ "Artist": "Koda", "Song": "Staying" },
+			{ "Artist": "Bruno Mars", "Song": "When I was Your Man" },
+			{ "Artist": "Ramos", "Song": "Early bird" }
+		]
+	},
+	"5": {
+		"songs":[
+			{ "Artist": "Ed Sheeran", "Song": "The A Team" },
+			{ "Artist": "Pink Floyd", "Song": "Wish you were here" },
+			{ "Artist": "Bob Dylan", "Song": "One Too Many Mornings" },
+			{ "Artist": "Coldplay", "Song": "Fix You" }
+		]
+	},
+	"6": {
+		"songs":[
+			{ "Artist": "Lamb of god", "Song": "Desolation" },
+			{ "Artist": "Gojira", "Song": "Backbone" },
+			{ "Artist": "Hatebreed", "Song": "Destroy Everything" },
+			{ "Artist": "Eminem", "Song": "Go To sleep" }
+		]
+	}
+}
