@@ -24,7 +24,7 @@ Each song (for training and the new songs) are being downloaded from Apple's iTu
 #
 [More info](https://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
 ##### Extraction of chords and BPM
-For the extraction of the chords and the BPM of each song is being used a Matlab subroutine.
+For the extraction of the chords and BPM a Matlab subroutine is being used.
 #
 [More info](http://labrosa.ee.columbia.edu/projects/chords/)
 #### Save to Database
